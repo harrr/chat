@@ -1,0 +1,92 @@
+
+body {  
+    font:16px arial;  
+    color: #6F6D6C;  
+    text-align:center;  
+    padding:35px; 
+    background-image:url('http://wakpaper.com/large/Winter_wallpapers_394.jpg');
+    background-size:cover;
+    }  
+   
+form, p, span {  
+    margin:100;  
+    padding:0; 
+    font-family: Nosifer;
+    font: 16px;
+    color: black;
+    }  
+   
+input { font:16px arial; 
+        font-family: Sonsie One;}
+input:focus {
+    border:1px solid #7E008A;
+}
+        
+label{
+    font:16px;
+    font-family: Sonsie One;
+}
+   
+a {  
+    color:#0000FF;  
+    text-decoration:none; }  
+   
+    a:hover { text-decoration:underline; }  
+
+
+
+#wrapper, #loginform {  
+    margin:0 auto;  
+    padding-bottom:25px;  
+    background:#DDDDDD;  
+    width:504px;  
+    border:1px solid #3A3A3A;} 
+    
+    #wrapper{ height: 390px;}
+   
+#loginform { padding-top:18px; 
+height: 195px;}  
+   
+    #loginform p { margin: 5px; }  
+   
+#chatbox {  
+    color: black;
+    text-align:left;  
+    margin:0 auto;  
+    margin-bottom:15px;  
+    padding:10px;    
+    height:270px;  
+    width:430px;  
+    border:1px solid #3A3A3A;  
+    overflow:auto; 
+    background:#fcfcfc;}  
+   
+#usermsg {  
+    color: #000000;
+    
+    width:100%;  
+    border:1px solid #3A3A3A;}  
+   
+   
+.error { color: #ff0000; }  
+   
+#menu { padding:5px 25px 5px 25px; }  
+   #exit {float: right;
+   width: 70px;
+   margin: 10px 0px 0px 0 px;}
+.welcome { float:left; }  
+   
+.logout { float:rightright; }  
+   
+.msgln { margin:0 0 2px 0; } 
+
+#enter .input{border: 2px solid #0B3281;}
+h3{width: 300px;}
+div.input-group {
+    margin:0px 20px 0px 36px;
+    width: 430px;
+}
+div#ig1.input-group
+{margin:0px 20px 0px 10px;}
+
+   
